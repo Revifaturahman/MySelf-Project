@@ -30,11 +30,15 @@ class DailyActivityFragment : Fragment() {
     )
 
     private val friendList = listOf(
-        FriendItem(R.drawable.image1, "Fadli"),
-        FriendItem(R.drawable.image1, "Indah"),
-        FriendItem(R.drawable.image1, "Asep"),
-        FriendItem(R.drawable.image1, "Osep"),
-        FriendItem(R.drawable.image1, "Basep")
+        FriendItem(R.drawable.barol, "Baros"),
+        FriendItem(R.drawable.fadil, "Fadil"),
+        FriendItem(R.drawable.hilmy, "Hilmy"),
+        FriendItem(R.drawable.danu, "Danu"),
+        FriendItem(R.drawable.zaidan, "Zaidan"),
+        FriendItem(R.drawable.umam, "Umam"),
+        FriendItem(R.drawable.tijar, "Tijar"),
+        FriendItem(R.drawable.abil, "Abil"),
+        FriendItem(R.drawable.dhafin, "Dafin")
     )
 
     override fun onCreateView(

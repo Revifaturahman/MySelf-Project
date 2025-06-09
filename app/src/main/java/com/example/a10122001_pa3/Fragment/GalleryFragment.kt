@@ -24,18 +24,16 @@ class GalleryFragment : Fragment() {
         recyclerView = view.findViewById(R.id.galleryRecyclerView)
 
         val imageList = listOf(
-            GalleryItem(R.drawable.image1),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image3),
-            GalleryItem(R.drawable.image1),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2),
-            GalleryItem(R.drawable.image2)
+            GalleryItem(R.drawable.fadil),
+            GalleryItem(R.drawable.hilmy),
+            GalleryItem(R.drawable.danu),
+            GalleryItem(R.drawable.zaidan),
+            GalleryItem(R.drawable.umam),
+            GalleryItem(R.drawable.barol),
+            GalleryItem(R.drawable.abil),
+            GalleryItem(R.drawable.tijar),
+            GalleryItem(R.drawable.dhafin),
+            GalleryItem(R.drawable.revi)
         )
 
         galleryAdapter = GalleryAdapter(imageList)
