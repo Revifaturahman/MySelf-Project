@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">10122001_PA3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="friend_list">Friend List</string>
+    <string name="music">Musik</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="jurusan">Teknik Informatika</string>
+    <string name="name">Revi Faturahman</string>
+    <string name="desc">Description</string>
+    <string name="desc_isi">Saya adalah mahasiswa Universitas Komputer Indonesia, jurusan S1 Teknik Informatika. Saya tertarik dengan dunia teknologi, khususnya di bidang pengembangan aplikasi seluler, Website dan juga Machine Learning.</string>
+    <string name="contact">Contact</string>
+    <string name="no">085659431655</string>
+    <string name="email">revifaturahman05@gmail.com</string>
+    <string name="ig">revifaturahman05</string>
+    <string name="find">Find Me</string>
+    <string name="hobby">Hobby</string>
+    <string name="futsal">Futsal</string>
+    <string name="game">Game</string>
+    <string name="nonton">Nonton Film</string>
+    <string name="food">Favorite Food</string>
+    <string name="nasi_padang">Nasi Padang</string>
+    <string name="mie">Mie Ayam</string>
+    <string name="ayam">Ayam</string>
+    <string name="drink">Favorite Drink</string>
+    <string name="cola">Coca Cola</string>
+    <string name="air">Air Zam Zam</string>
+    <string name="cita2">Cita Cita</string>
+    <string name="android">Android Develover</string>
+    <string name="website">Website Develover</string>
+
+
+    <string name="qoutes">Apa yang kita bangun hari ini, menentukan dunia yang kita tinggali esok hari. Gunakan teknologi untuk memberi dampak, bukan sekadar jejak.</string>
+</resources>
