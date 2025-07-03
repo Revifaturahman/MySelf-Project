@@ -17,7 +17,6 @@ My Self Project adalah aplikasi Android yang dirancang sebagai media presentasi 
 ## 🧱 Teknologi yang Digunakan
 
 - **Kotlin** – Bahasa pemrograman utama.
-- **Room** – Penyimpanan data lokal (seperti aktivitas harian).
 - **RecyclerView** – Menampilkan data dalam list yang dinamis.
 - **Fragment & Bottom Navigation** – Untuk navigasi antar halaman.
 
