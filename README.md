@@ -24,19 +24,19 @@ My Self Project adalah aplikasi Android yang dirancang sebagai media presentasi 
 ## 📷 Preview
 
 ### Home
-<img src="https://github.com/user-attachments/assets/d7da2bb4-668a-4670-8452-d0b0bc079d46"/>
+<img src="https://github.com/user-attachments/assets/d7da2bb4-668a-4670-8452-d0b0bc079d46" width="300"/>
 
 ### Daily Activity
-<img src="https://github.com/user-attachments/assets/cee12a0e-eb53-4c22-8eb5-643b22938d91"/>
+<img src="https://github.com/user-attachments/assets/cee12a0e-eb53-4c22-8eb5-643b22938d91" width="300"/>
 
 ### Gallery
-<img src="https://github.com/user-attachments/assets/2aa6cb77-b9ec-460b-915b-1040aeecdf33"/>
+<img src="https://github.com/user-attachments/assets/2aa6cb77-b9ec-460b-915b-1040aeecdf33" width="300"/>
 
 ### Music
-<img src="https://github.com/user-attachments/assets/f288425a-057a-4cb1-9ea6-12c3add0441d"/>
+<img src="https://github.com/user-attachments/assets/f288425a-057a-4cb1-9ea6-12c3add0441d" width="300"/>
 
 ### Profile
-<img src="https://github.com/user-attachments/assets/dcda2db9-763c-4536-a5fd-81c428f0f113" />
+<img src="https://github.com/user-attachments/assets/dcda2db9-763c-4536-a5fd-81c428f0f113" width="300"/>
 
 ## ✍️ Kontributor
 
