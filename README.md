@@ -23,7 +23,20 @@ My Self Project adalah aplikasi Android yang dirancang sebagai media presentasi 
 
 ## 📷 Preview
 
-_Tambahkan beberapa screenshot aplikasi di sini jika tersedia._
+### Home
+<img src="https://github.com/user-attachments/assets/d7da2bb4-668a-4670-8452-d0b0bc079d46"/>
+
+### Daily Activity
+<img src="https://github.com/user-attachments/assets/cee12a0e-eb53-4c22-8eb5-643b22938d91"/>
+
+### Gallery
+<img src="https://github.com/user-attachments/assets/2aa6cb77-b9ec-460b-915b-1040aeecdf33"/>
+
+### Music
+<img src="https://github.com/user-attachments/assets/f288425a-057a-4cb1-9ea6-12c3add0441d"/>
+
+### Profile
+<img src="https://github.com/user-attachments/assets/dcda2db9-763c-4536-a5fd-81c428f0f113" />
 
 ## ✍️ Kontributor
 
